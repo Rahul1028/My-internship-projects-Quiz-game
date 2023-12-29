@@ -1,2 +1,2 @@
 # My-internship-projects-Quiz-game
-This is a basic quiz game for fun purpose 
+This is a simple, fun quiz game that I made using Python. I used the Tkinter messagebox and numerous classes, such as quizhistory and participantdetailspage. The game starts with a welcome window where we must fill out some information before entering the quiz room, which consists of four questions, each with four possible answers. When we get stuck in the game, we can also use the lifeline.However, there are 28 seconds given to each question.The game will stop if we don't finish in the allotted time. 
